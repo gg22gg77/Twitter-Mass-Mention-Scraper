@@ -26,7 +26,9 @@ Only requires Proxies — can be obtained for < $15
 
 
 ## 💰 Purchase
+
 Price: $1200
+
 Payment Methods: BTC, ETH, LTC, SOL
 
 
@@ -35,10 +37,17 @@ Payment Methods: BTC, ETH, LTC, SOL
 Telegram: https://t.me/gg22gg77
 
 ## Tags (ignore)
+
 -twitter mass mention bot
+
 -mass mentions
+
 -mass replier
+
 -replyer
+
 -advertiser
+
 -advertising bot
+
 -marketing bot
