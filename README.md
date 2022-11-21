@@ -6,7 +6,7 @@ Replies with a large number of mentions on the specified Tweet for Easy Marketin
 
 ## Preview
 
-![169876989-88cddcb2-7e06-4f11-a247-37a38e363271](https://user-images.githubusercontent.com/115935416/202988648-5f2384d6-a53a-459e-9784-2b34ca2c34e2.png)
+![169876989-88cddcb2-7e06-4f11-a247-37a38e363271](https://user-images.githubusercontent.com/115935416/202989240-02b5e9a0-11b7-41ea-8944-e2bb11d39308.png)
 
 
 
