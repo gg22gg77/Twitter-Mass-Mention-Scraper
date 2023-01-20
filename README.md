@@ -10,7 +10,6 @@ Replies with a large number of mentions on the specified Tweet for Easy Marketin
 
 
 
-
 ## 🛡️ Info
 
 ✅Scrape usernames from specified Twitter profile's followers list
